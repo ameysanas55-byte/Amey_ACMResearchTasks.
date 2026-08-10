@@ -10,12 +10,12 @@ The tasks cover different aspects of computing, including Python programming, te
 
 ## 🚀 Explore My Work
 
-| Task | Description | Submission |
-|------|-------------|------------|
-| 🐍 **Task 0** | Sneaky Log Cleaner — Python implementation | [View Task 0 →](./task0/transform_logs.py) |
-| ✍️ **Task 1** | Technical Blog Review | [View Task 1 →](./task1/blog_review.md) |
-| 📄 **Task 2** | Research Paper Summary | [View Task 2 →](./task2/paper_summary.md) |
-| 📊 **Bonus** | Netflix Movies & TV Shows — EDA | [Open EDA Notebook →](./bonus/eda.ipynb) |
+| Task          | Description                                | Submission                                                         |
+| ------------- | ------------------------------------------ | ------------------------------------------------------------------ |
+| 🐍 **Task 0** | Sneaky Log Cleaner — Python implementation | [View Task 0 →](https://github.com/ameysanas55-byte/Amey_ACMResearchTasks./tree/main/task0) |
+| ✍️ **Task 1** | Technical Blog Review                      | [View Task 1 →](https://github.com/ameysanas55-byte/Amey_ACMResearchTasks./tree/main/task1) |
+| 📄 **Task 2** | Research Paper Summary                     | [View Task 2 →](https://github.com/ameysanas55-byte/Amey_ACMResearchTasks./tree/main/Task2) |
+| 📊 **Bonus**  | Netflix Movies & TV Shows — EDA            | [Open EDA Notebook →](https://github.com/ameysanas55-byte/Amey_ACMResearchTasks./tree/main/Bonus) |
 
 ---
 
